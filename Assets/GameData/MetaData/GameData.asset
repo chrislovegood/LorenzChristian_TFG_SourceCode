@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a67cf50d53fb15b4b8154df3e0b42208, type: 3}
+  m_Name: GameData
+  m_EditorClassIdentifier: 
+  entries:
+  - name: currency
+    value: 0
+  - name: energy
+    value: 0
+  - name: time
+    value: 0
+  - name: days
+    value: 0
+  - name: waterUses
+    value: 5
+  - name: weather
+    value: 0
+  - name: language
+    value: 1
+  - name: party
+    value: 0

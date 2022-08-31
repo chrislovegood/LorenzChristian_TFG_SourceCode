@@ -1,0 +1,823 @@
+fileFormatVersion: 2
+guid: 66398306ae77f1c428b6d8a054196135
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3280076494932604096
+    second: water_marker_2_0
+  - first:
+      213: 1651873264809095252
+    second: water_marker_2_1
+  - first:
+      213: -4556908965380799938
+    second: water_marker_2_3
+  - first:
+      213: -933152078365135269
+    second: water from wateringcan frames_3
+  - first:
+      213: 8935965209386922149
+    second: water_marker_2_4
+  - first:
+      213: 8110346588498905727
+    second: water_marker_2_5
+  - first:
+      213: 2329645380984839722
+    second: water from wateringcan frames_6
+  - first:
+      213: 2846427335469858117
+    second: water_marker_2_6
+  - first:
+      213: 419246138385307597
+    second: water_marker_2_7
+  - first:
+      213: 7361230958523433615
+    second: water_marker_2_8
+  - first:
+      213: 5412722482123345130
+    second: water from wateringcan frames_10
+  - first:
+      213: 8696312136701554697
+    second: water from wateringcan frames_11
+  - first:
+      213: -2366218086611976655
+    second: water from wateringcan frames_12
+  - first:
+      213: -1126591211744329138
+    second: water from wateringcan frames_13
+  - first:
+      213: -1070589929108517965
+    second: water from wateringcan frames_14
+  - first:
+      213: 105237157417476999
+    second: water from wateringcan frames_15
+  - first:
+      213: 49055188159307928
+    second: water from wateringcan frames_16
+  - first:
+      213: 744114824431981426
+    second: water from wateringcan frames_17
+  - first:
+      213: -1937651885332894215
+    second: water from wateringcan frames_18
+  - first:
+      213: -295424926342742339
+    second: water from wateringcan frames_19
+  - first:
+      213: -6261448935132600509
+    second: water from wateringcan frames_20
+  - first:
+      213: 7016072128403687030
+    second: water from wateringcan frames_21
+  - first:
+      213: -2023043043059702996
+    second: water from wateringcan frames_22
+  - first:
+      213: 8870007887413100699
+    second: water from wateringcan frames_23
+  - first:
+      213: 1131147002139308259
+    second: water from wateringcan frames_24
+  - first:
+      213: -4081628781768529966
+    second: water from wateringcan frames_25
+  - first:
+      213: 6202966850987950991
+    second: water from wateringcan frames_26
+  - first:
+      213: 4926789587153203089
+    second: water from wateringcan frames_27
+  - first:
+      213: -2270795834999937996
+    second: water from wateringcan frames_28
+  - first:
+      213: -4304052639017021981
+    second: water from wateringcan frames_29
+  - first:
+      213: 3941272763060359414
+    second: water from wateringcan frames_30
+  - first:
+      213: -1146138966924146344
+    second: water from wateringcan frames_31
+  - first:
+      213: -417536976526906944
+    second: water from wateringcan frames_32
+  - first:
+      213: 6877293416592579616
+    second: water from wateringcan frames_33
+  - first:
+      213: -818504530572162834
+    second: water from wateringcan frames_34
+  - first:
+      213: 4723879556859801836
+    second: water from wateringcan frames_35
+  - first:
+      213: 7698613403470624423
+    second: water from wateringcan frames_36
+  - first:
+      213: 8390112387380558552
+    second: water from wateringcan frames_37
+  - first:
+      213: -5478211261667459086
+    second: water from wateringcan frames_38
+  - first:
+      213: -1010665399741402056
+    second: water from wateringcan frames_39
+  - first:
+      213: -2294804625827310895
+    second: water from wateringcan frames_40
+  - first:
+      213: -6357471844176205250
+    second: water from wateringcan frames_41
+  - first:
+      213: -5444486449582777656
+    second: water from wateringcan frames_42
+  - first:
+      213: -4299751541861403686
+    second: water from wateringcan frames_43
+  - first:
+      213: 8857317266513495576
+    second: water from wateringcan frames_44
+  - first:
+      213: 2167680929214179088
+    second: water from wateringcan frames_45
+  - first:
+      213: 6075361111778804076
+    second: water from wateringcan frames_46
+  - first:
+      213: -7369136950521726610
+    second: water from wateringcan frames_47
+  - first:
+      213: 7508638575453585661
+    second: water from wateringcan frames_48
+  - first:
+      213: -1013240722580213739
+    second: water from wateringcan frames_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: water_marker_2_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 94
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b0f637ec3da72d0800000000000000
+      internalID: -3280076494932604096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_marker_2_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 99
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45039ea7bf1ace610800000000000000
+      internalID: 1651873264809095252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_marker_2_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 102
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e324fa4807b92c0c0800000000000000
+      internalID: -4556908965380799938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water from wateringcan frames_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 106
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ee0a7f027cc03f0800000000000000
+      internalID: -933152078365135269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_marker_2_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 109
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0b1ce530de20c70800000000000000
+      internalID: 8935965209386922149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_marker_2_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 109
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a47c4704dbd8070800000000000000
+      internalID: 8110346588498905727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_marker_2_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 109
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d74a1a49a808720800000000000000
+      internalID: 2846427335469858117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_marker_2_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 109
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc719ef342671d500800000000000000
+      internalID: 419246138385307597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_marker_2_8
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 109
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82c5682e88582660800000000000000
+      internalID: 7361230958523433615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water from wateringcan frames_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec8bbe6b6add1b40800000000000000
+      internalID: 5412722482123345130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water from wateringcan frames_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900b30430d18fa870800000000000000
+      internalID: 8696312136701554697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water from wateringcan frames_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e736edf21892fd0800000000000000
+      internalID: -2366218086611976655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water from wateringcan frames_13
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4207e8034b8d50f0800000000000000
+      internalID: -1126591211744329138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water from wateringcan frames_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb4067b1208421f0800000000000000
+      internalID: -1070589929108517965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water from wateringcan frames_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7836a0913a0e57100800000000000000
+      internalID: 105237157417476999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water from wateringcan frames_16
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89020a80f674ea000800000000000000
+      internalID: 49055188159307928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water from wateringcan frames_17
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273de568d70a35a00800000000000000
+      internalID: 744114824431981426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water from wateringcan frames_18
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fded5c50e31c15e0800000000000000
+      internalID: -1937651885332894215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water from wateringcan frames_19
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe7b8f389076ebf0800000000000000
+      internalID: -295424926342742339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water from wateringcan frames_20
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3476c2a3e5dda19a0800000000000000
+      internalID: -6261448935132600509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water from wateringcan frames_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67645049d681e5160800000000000000
+      internalID: 7016072128403687030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water from wateringcan frames_22
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23e9152215bce3e0800000000000000
+      internalID: -2023043043059702996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water from wateringcan frames_23
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90cb24ad29981b70800000000000000
+      internalID: 8870007887413100699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water from wateringcan frames_24
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0f2439434a2bf00800000000000000
+      internalID: 1131147002139308259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water from wateringcan frames_25
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d72da59f342b57c0800000000000000
+      internalID: -4081628781768529966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water from wateringcan frames_26
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8309aa7c7d551650800000000000000
+      internalID: 6202966850987950991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water from wateringcan frames_27
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f2c59b6097f5440800000000000000
+      internalID: 4926789587153203089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

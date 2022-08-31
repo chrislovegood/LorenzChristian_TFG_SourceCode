@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 308d484dfe375b140bc4f5ae60159e7d, type: 3}
+  m_Name: Chest
+  m_EditorClassIdentifier: 
+  Name: chest
+  id: 9
+  stackable: 0
+  icon: {fileID: -7778967240658538108, guid: 002c0f274d447a2478c110faabc8bd56, type: 3}
+  previewPlaced: {fileID: -6834524911116659543, guid: 0df75b8a48bfb14479dc8d0cad427a80, type: 3}
+  onAction: {fileID: 0}
+  onTileMapAction: {fileID: 11400000, guid: 4cd077791b9dbcb4f9f00f4187d8f191, type: 2}
+  onItemUsed: {fileID: 11400000, guid: 4cd077791b9dbcb4f9f00f4187d8f191, type: 2}
+  crop: {fileID: 0}
+  iconHighlight: 1
+  itemPrefab: {fileID: 1503247204854286473, guid: 0723b8c370be5604cbe8d8bedf888e53, type: 3}
+  energyGained: 0
+  sellPrice: 250

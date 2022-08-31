@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96d6fe02eb1e9764da8cb44352fd5b3a, type: 3}
+  m_Name: LettuceCrop
+  m_EditorClassIdentifier: 
+  timeToGrow: 288
+  damageToDead: 192
+  yield: {fileID: 11400000, guid: c06aba620b16f0f49b337e70a50f4afa, type: 2}
+  count: 1
+  sprites:
+  - {fileID: 1881330961402987585, guid: dbe454a95b38e294f98185348bbcead7, type: 3}
+  - {fileID: 3392196742602721534, guid: dbe454a95b38e294f98185348bbcead7, type: 3}
+  - {fileID: -797183112896774214, guid: dbe454a95b38e294f98185348bbcead7, type: 3}
+  - {fileID: -8226948184702604985, guid: dbe454a95b38e294f98185348bbcead7, type: 3}
+  growthStageTime: 60000000c000000020010000
